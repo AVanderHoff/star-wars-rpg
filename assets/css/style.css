@@ -1,0 +1,118 @@
+body{background: url("../images/star_wars_xwing.jpg");
+	 background-size: 100%;
+	 background-repeat: no-repeat;
+} 
+
+/*1400px 800px */
+#title{font-size : 40px;}
+#charactertitle{font-size:30px;}
+#enemytitle{font-size:30px;}
+#defendertitle{font-size:30px;}
+h3 {color: #000000;}				}
+h1 {color:#000000;}
+#message-area{font-color: #000000;
+			 font-size : 20px;
+}
+
+#obiwan{float:left;
+		background:#ffffff;
+		height:110px;
+		width:110px;
+		position: relative ; 
+		display : initial;
+		text-align: center;
+		border-width:3px;
+		border-style: solid ;
+		border-color: #009900 ;
+		margin-left:5px;
+		margin-right:5px;
+		font-color: #000000;
+	}
+
+#luke{float:left;
+		background:#ffffff;
+		height:110px;
+		width:110px;
+		position: relative ; 
+		display : initial;
+		text-align: center;
+		border-width:3px;
+		border-style: solid ;
+		border-color: #009900;
+		margin-left:5px;
+		margin-right:5px;
+		font-color: #000000;
+	}
+
+
+#darthmaul{float:left;
+		background:#ffffff;
+		height:110px;
+		width:110px;
+		position: relative ; 
+		display: initial;
+		text-align: center;
+		border-width:3px;
+		border-style: solid ;
+		border-color: #009900;
+		margin-left:5px;
+		margin-right:5px;
+		font-color: #000000;
+	}
+#darthsidius{float:left;
+		background:#ffffff;
+		height:110px;
+		width:110px;
+		position: relative ; 
+		display : initial;
+		text-align: center;
+		border-width:3px;
+		border-style: solid ;
+		border-color: #009900;
+		margin-left:5px;
+		margin-right:5px;
+		font-color: #000000;
+	}
+
+/*#start-area{height:0px;}
+#your-character{height:50px;}
+#enemy-area{height:50px;}
+#defender-area{height:50px;} */
+
+/*img{ height:auto;
+	 max-width:100%;
+	 max-height: 50%;
+} */
+
+#obiwanimage{height:45px;
+			 width: 70px;
+			 
+}
+#lukeimage{height:45px;
+			 width: 70px;
+			 
+}
+
+#darthmaulimage{height:45px;
+			 width: 70px;
+			 position:relative;
+			 top:15px;
+			 margin-bottom: 16px;
+}
+
+#darthsidiusimage{height:45px;
+			 width: 70px;
+			 position:relative;
+			 top:15px;
+			 margin-bottom: 16px;
+}
+
+#obiwanname{color:#000000;}
+#lukename{color:#000000;}
+#darthsidiusname{color:#000000;}
+#darthmaulname{color:#000000;}
+
+#obiwannumber{color:#000000;}
+#lukenumber{color:#000000;}
+#darthmaulnumber{color:#000000;}
+#darthsidiusnumber{color:#000000;}
